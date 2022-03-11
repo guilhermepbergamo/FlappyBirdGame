@@ -1,2 +1,3 @@
 # FlappyBirdGame
- Flappy Bird game created with pygame
+ Flappy Bird clone game created with pygame.
+
